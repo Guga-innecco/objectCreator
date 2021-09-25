@@ -1,5 +1,5 @@
 function createObject() {
-    new Object
+    new Object()
 }
 
 function restart_object(object) {
