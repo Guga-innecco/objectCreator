@@ -5,7 +5,3 @@ function createObject() {
 function restart_object(object) {
     JSON.constructor(object)
 }
-
-function detector_scripts_JSON() {
-    JSON.constructor.prototype.Scopes
-}
