@@ -2,7 +2,7 @@ function createObject() {
     new Object
 }
 
-function set_JSON_Object(object) {
+function restart_object(object) {
     JSON.constructor(object)
 }
 
