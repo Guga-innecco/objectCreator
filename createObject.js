@@ -1,3 +1,3 @@
-export default function createObject() {
+function createObject() {
     let object = {}
 }
