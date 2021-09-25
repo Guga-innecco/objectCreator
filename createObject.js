@@ -1,5 +1,5 @@
 function createObject() {
-    let object = {}
+    new Object
 }
 
 function set_JSON_Object(object) {
